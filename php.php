@@ -1,7 +1,7 @@
 <html>
 
     <head>
-        <title>Information Gathered</title>
+        <title>Gethering Info</title>
 
     </head>
     <body>
